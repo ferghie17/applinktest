@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wish1075app.onekeyes",
+    "sha256_cert_fingerprints":
+    ["71:81:36:D2:94:D9:34:D7:7B:6B:B9:0F:B8:43:06:86:9F:29:A0:14:96:5B:77:AC:1A:63:CD:EC:2F:69:9A:43"]
+  }
+}]
